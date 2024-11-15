@@ -1,0 +1,10 @@
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\bin\Debug\Lisans.dll.config
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\bin\Debug\Lisans.dll
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\bin\Debug\Lisans.pdb
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.csproj.AssemblyReference.cache
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Lisans.Form1.resources
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Lisans.Properties.Resources.resources
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.csproj.GenerateResource.cache
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Lisans.dll
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Lisans.pdb

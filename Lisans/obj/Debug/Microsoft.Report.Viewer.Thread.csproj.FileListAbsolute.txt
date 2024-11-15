@@ -1,0 +1,10 @@
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\bin\Debug\Microsoft.Report.Viewer.Thread.pdb
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.Thread.csproj.AssemblyReference.cache
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.Thread.Properties.Resources.resources
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.Thread.csproj.GenerateResource.cache
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.Thread.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.Thread.pdb
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.Thread.Form1.resources
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\bin\Debug\Microsoft.Report.Viewer.Thread.dll.config
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\bin\Debug\Microsoft.Report.Viewer.Thread.dll
+C:\Users\BUGRA\source\repos\IsTakip\Lisans\obj\Debug\Microsoft.Report.Viewer.Thread.dll
