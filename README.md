@@ -6,7 +6,7 @@ C# ile yazılmış oto servis iş takip otomasyonu, işletmenin işleyişini dah
 1-) İnternet üzerinden "SQL2022-SSEI-Express" ve "SSMS-Setup-ENU" programlarını indirerek kurulumunu yapın. <br>
 2-) Microsoft SQL Server Management Studio programını açın. Connect seçeneğini seçerek bağlanın. <br>
 3-) Object Explorer altında olan "Databases" dizinine sağ tıklayarak "New Database" seçeceğine tıklayın. Database Name kısmına "IsTakipDb" yazdıktan sonra OK seçeneğine tıklayın. <br>
-4-) Ek Dosyalar içerisinde bulunan script.sql dosyasını açın. Microsoft SQL Server Management Studio üzerinde script.sql dosyası açıldıktan sonra sol üst kısımda "Execute" yazısına tıklayın. <br> 
+4-) SQL Script klasöründe bulunan script.sql dosyasını açın. Microsoft SQL Server Management Studio üzerinde script.sql dosyası açıldıktan sonra sol üst kısımda "Execute" yazısına tıklayın. <br> 
 5-) Microsoft SQL Server Management Studio programını açın. Çıkan ekranda "Server name" kısmında yazılı olan bilgiyi kopyalayın. <br>
 ![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss3.png?raw=true) <br>
 6-) Projeyi Visual Studio üzerinden açın ardından App.config dosyasını açın. <br>
