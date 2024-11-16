@@ -2,7 +2,7 @@
 
 C# ile yazılmış oto servis iş takip otomasyonu, işletmenin işleyişini daha verimli hale getirebilir. Kolay kullanımı ve basit arayüzü ile  müşteri bilgileri, araç bakım, onarım süreçleri ve servis talepleri daha kolay yönetilir. Bu otomasyon, otomobil servislerinin iş akışlarını düzenlemek ve izlemek adına önemli bir araçtır. 
 
-# Direk Kurulum İçin
+# Kullanım Kurulumu İçin
 Ek Dosyalar içerisinde bulunan setup.exe dosyasını kurun. <br>
 İnternet üzerinden "SQL2022-SSEI-Express" ve "SSMS-Setup-ENU" programlarını indirerek kurulumunu yapın. <br>
 Microsoft SQL Server Management Studio programını açın. Connect seçeneğini seçerek bağlanın. <br>
