@@ -8,11 +8,12 @@ Ek Dosyalar içerisinde bulunan setup.exe dosyasını kurun. <br>
 Microsoft SQL Server Management Studio programını açın. Connect seçeneğini seçerek bağlanın. <br>
 Object Explorer altında olan "Databases" dizinine sağ tıklayarak "New Database" seçeceğine tıklayın. Database Name kısmına "IsTakipDb" yazdıktan sonra OK seçeneğine tıklayın. <br>
 Ek Dosyalar içerisinde bulunan script.sql dosyasını açın. Microsoft SQL Server Management Studio üzerinde script.sql dosyası açıldıktan sonra sol üst kısımda "Execute" yazısına tıklayın. <br> 
-![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss4.png?raw=true)
 Microsoft SQL Server Management Studio programını açın. Çıkan ekranda "Server name" kısmında yazılı olan ismi kopyalayın. <br>
 ![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss3.png?raw=true) <br>
-Kopyalamış olduğunuz Server Name bilgisini IsTakip.exe.config dosyası içerisinde bulunan Data Source ile değiştirin. <br>
 setup.exe dosyasını kurduğunuz dosya adresine gidin. IsTakip Kurulum klasörü içerisinde bulunan IsTakip.exe.config dosyasını açın <br>
+Kopyalamış olduğunuz Server Name bilgisini IsTakip.exe.config dosyası içerisinde bulunan Data Source ile değiştirin. <br>
+![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss4.png?raw=true)
+
 
 
 
