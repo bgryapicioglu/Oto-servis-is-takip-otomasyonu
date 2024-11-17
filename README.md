@@ -11,8 +11,7 @@ C# ile yazılmış oto servis iş takip otomasyonu, işletmenin işleyişini dah
 ![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss3.png?raw=true) <br>
 6-) Projeyi Visual Studio üzerinden açın ardından App.config dosyasını açın. <br>
 7-) App.config içerisinde bulunan Data Source bilgisini kendi kopyaladığınız "Server name" bilgisiyle değiştirin. <br> 
-<br>
-![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss4.png?raw=true) <br>
+<br> ![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss4.png?raw=true) <br>
 
 
 
