@@ -20,6 +20,18 @@ C# ile yazılmış oto servis iş takip otomasyonu, işletmenin işleyişini dah
 
 # Lisans 
 ![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss1.png?raw=true)
+
+Demo İçin (10 GÜN)
+TARİH FONKSİYON = (GÜN + AY) * YIL 
+CPU KARAKTER TOPLAM (976) *  TARİH FONKSİYON * 43
+
+Lisans İçin (1 YIL)
+TARİH FONKSİYON = (GÜN + AY) * YIL
+CPU KARAKTER TOPLAM (976) * TARİH FONKSİYON * 47
+
+
+
+
 ![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss2.png?raw=true)
 
 ## 
