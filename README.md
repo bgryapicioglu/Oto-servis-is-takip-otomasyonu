@@ -22,11 +22,11 @@ C# ile yazılmış oto servis iş takip otomasyonu, işletmenin işleyişini dah
 ![image alt](https://github.com/bgryapicioglu/Oto-servis-is-takip-otomasyonu/blob/main/Ss1.png?raw=true)
 
 Demo İçin (10 GÜN) <br>
-TARİH FONKSİYON = (GÜN + AY) * YIL 
+TARİH FONKSİYON = (GÜN + AY) * YIL <br>
 CPU KARAKTER TOPLAM (976) *  TARİH FONKSİYON * 43
 
 Lisans İçin (1 YIL) <br>
-TARİH FONKSİYON = (GÜN + AY) * YIL
+TARİH FONKSİYON = (GÜN + AY) * YIL <br>
 CPU KARAKTER TOPLAM (976) * TARİH FONKSİYON * 47
 
 
